@@ -1,0 +1,14 @@
+{
+  "name": "the-family-meals",
+  "version": "1.0.0",
+  "description": "The Family Meals - Demo Web Application",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
